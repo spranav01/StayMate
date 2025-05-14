@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+effective-space-funicular-97wvj4vwr7pw2xpq6/workspaces/StayMate"
+		}
+	],
+	"remoteAuthority": "codespaces+effective-space-funicular-97wvj4vwr7pw2xpq6",
+	"settings": {
+		"liveServer.settings.port": 5503
+	}
+}
